@@ -4,6 +4,7 @@ module.exports = {
       
       // 网站描述
       description: '个人博客',
+      base: '/vuepressBlog/',
       
       // 网站 favicon 图标设置等
       head: [
